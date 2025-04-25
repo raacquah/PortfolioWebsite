@@ -380,8 +380,11 @@ h3 {
 }
 
 .about--section--img > img {
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
+    margin-left: auto; /* Pushes the image to the right */
+    margin-right: 15px; /* Adds space between the image and the text */
+    display: block; /* Ensures proper alignment */
 }
 /* About Me Ends */
 

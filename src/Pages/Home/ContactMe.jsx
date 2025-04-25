@@ -5,7 +5,7 @@ export default function ContactMe() {
           <p className="sub--title">Get In Touch With Me</p>
           <h2>Contact Me</h2>
           <p className="text-lg">
-            My email is active 24/7. Please do not hesitate to reach out.
+            My email (acquahrichmond.a@gmail.com) is active 24/7—Please do not hesitate to reach out. Or kindly fill out the form below.
           </p>
         </div>
         <form className="contact--form--container">
