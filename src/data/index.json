@@ -1,0 +1,84 @@
+{
+    "skills": [
+{
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "React, Angular & Vue"
+
+},
+{
+    "id": "2",
+    "src": "./img/tag-1.png",
+    "title": "Back-End",
+    "description": "Database, API & Server-side"
+
+},
+{
+    "id": "3",
+    "src": "./img/feather-pen-2.png",
+    "title": "UI & UX Design",
+    "description": "Wireframing, Visual Design & Usability Testing"
+
+},
+{
+    "id": "4",
+    "src": "./img/feather-pen-1.png",
+    "title": "Data Science",
+    "description": "Analytics & Machine Learning"
+
+}
+],
+
+    "portfolio": [
+{
+            "id": "1",
+            "src": "./img/cust.png",
+            "title": "Customer Segmentation with Machine Learning",
+            "description": "Business Intelligence Algorithm that filters customers according to spending patterns"
+
+},
+{
+    "id": "2",
+    "src": "./img/recommendation.png",
+    "title": "Shopping Recommender App",
+    "description": "A full stack shopping reccommendation app that includes item preference & budget"
+
+},
+{
+    "id": "3",
+    "src": "./img/vortex.png",
+    "title": "Vortex",
+    "description": "A simple mobile vortex game"
+
+}
+],
+
+"testimonial": [
+{
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Richmond is a creative problem solver!",
+        "author_name": "Edem Wordi",
+        "author_designation": "Soka University of America"
+
+},
+{
+    "id": "1",
+    "count": "5",
+    "src": "./img/avatar-image-1.png",
+    "description": "Richmond is a perfect teammate!",
+    "author_name": "Enoch Owusu",
+    "author_designation": "Soka University of America"
+},
+{
+    "id": "1",
+    "count": "5",
+    "src": "./img/avatar-image-2.png",
+    "description": "Richmond is a leader. Always a pleasure to work with",
+    "author_name": "Mark Pliushchanskii",
+    "author_designation": "Soka University of America"
+}
+]
+}
